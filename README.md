@@ -4,7 +4,7 @@
   </a>
 </p>
 <hr>
-<span style="padding-right:6px; padding-top: 3px; display:inline-block;">
-  <a href="https://vivek.kandathil.ca">Website</a>
-  <a href="https://linkedin.com/in/vivekkandathil">LinkedIn</a>
-</span>
+<ul>
+  <li><a href="https://vivek.kandathil.ca">Website</a></li>
+  <li><a href="https://linkedin.com/in/vivekkandathil">LinkedIn</a></li>
+</ul>
